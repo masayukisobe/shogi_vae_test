@@ -1,4 +1,4 @@
-ここにを以下のファイルを置く.
+ここに以下のファイルを置く.
  - PSVファイルいずれか
    - Suisho10Mn_psv.bin
    - Suishopsv-150m.bin
